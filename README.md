@@ -5,9 +5,9 @@
 * [Source](#source)
 
 ## General info
-The purpose of exercise was to practise abstract classes and interfaces in Java.
+The purpose of this exercise was to practise abstract classes and interfaces in Java.
 
 ## Technologies
-Project is created with:
+Project was created with:
 * Intellij IDEA Community 2020.1.1
 
